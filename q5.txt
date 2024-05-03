@@ -1,0 +1,12 @@
+Seja x=5 e considere a instrução y = x++ + ++x. Quais são os valores das variáveis ​​​​x e y depois disso?
+Executar este comando? Por que?
+
+x=5
+
+y=5++
+
+Ou seja, y = 5+ ++x (x aqui vira 6 porque é x++ e porque recebe +1 depois, quando chega a ++X, +1 é somado primeiro, então =7)
+
+y = 5 + 7
+y=12
+x = 7
